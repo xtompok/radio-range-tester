@@ -1,0 +1,8 @@
+[radio]
+port = "/dev/ttyUSB2"
+baudrate = 9600
+
+[log]
+directory = "./logs"
+csv_prefix = "mobile"
+geojson_prefix = "mobile"
