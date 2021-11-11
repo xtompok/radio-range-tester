@@ -1,6 +1,7 @@
 [radio]
-port = "/dev/ttyUSB2"
+port = "/dev/ttyUSB0"
 baudrate = 9600
+send_shift_ms = 200	# Don't set too low
 
 [log]
 directory = "./logs"
